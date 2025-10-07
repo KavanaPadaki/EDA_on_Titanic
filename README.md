@@ -32,7 +32,7 @@ This section summarizes key insights from profiling the target variable `Survive
   - Solo travelers had **lower survival odds** compared to those with family.
 
 ---
-
+[📄 View Titanic EDA Report]
 ###  Why This Matters
 
 Understanding the target variable helps:
